@@ -1,0 +1,11 @@
+{
+  "name": "dr-mozzy",
+  "version": "1.0.0",
+  "description": "Ask Dr Mozzy: Can my dog eat _______ and he will answer you.",
+  "main": "index.js",
+  "author": "Louise Yang",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  }
+}
