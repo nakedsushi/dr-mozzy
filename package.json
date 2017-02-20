@@ -6,6 +6,9 @@
   "author": "Louise Yang",
   "license": "MIT",
   "dependencies": {
-    "alexa-sdk": "^1.0.7"
+    "alexa-sdk": "^1.0.7",
+    "aws-sdk": "^2.16.0",
+    "dynamodb-marshaler": "^2.0.0",
+    "nlp_compromise": "^6.5.3"
   }
 }
